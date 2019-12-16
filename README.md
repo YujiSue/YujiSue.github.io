@@ -1,7 +1,5 @@
 [English](#Codes-for-research-use)/[Japanese](#研究用に書いたプログラムリスト)
----
-  
-  
+
 #Codes for research use
 ---
 <span style="color:red;">* All the programs listed in this page REQUIRE the following libraries; [shelper](), [sobj](https://), [sbioinfo](https://),[scuiapp](https://). </span>
