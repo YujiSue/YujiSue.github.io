@@ -2,7 +2,7 @@
 
 # Codes for research use
 ---
-<span style="color:red;">* All the programs listed in this page REQUIRE the following libraries; [shelper](), [sobj](https://), [sbioinfo](https://),[scuiapp](https://). </span>
+<span style="color:red;">* All the programs listed in this page REQUIRE the following libraries; [shelper](https://github.com/soukiDD/libshelper), [sobj](https://github.com/soukiDD/libsobj), [sbioinfo](https://github.com/soukiDD/libsbioinfo),[scuiapp](https://github.com/soukiDD/libscuiapp). </span>
 
 <!--span style="color:skyblue;">* If you are not good at computing or command line application, please visit my [another site](https://). </span-->
 
@@ -64,7 +64,7 @@ Otherwise obtaining position of genes, transcripts and mutations.
 
 # 研究用に書いたプログラムリスト  
 ---
-<span style="color:red;">※1　ここにあるプログラムを動かすには、ライブラリ[shelper](https://), [sobj](https://), [sbioinfo](https://), [scuiapp](https://) が『必要』です。</span>
+<span style="color:red;">※1　ここにあるプログラムを動かすには、ライブラリ[shelper](https://github.com/soukiDD/libshelper), [sobj](https://github.com/soukiDD/libsobj), [sbioinfo](https://github.com/soukiDD/libsbioinfo),[scuiapp](https://github.com/soukiDD/libscuiapp) が『必要』です。</span>
 
 <!--span style="color:skyblue;">※2　コンパイルとかよくわからない、コマンドベースのアプリケーションは苦手etc、な人は[こちら](https://)へ。</span-->
 
