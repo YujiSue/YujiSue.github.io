@@ -178,4 +178,4 @@ ImageJのプラグインとして書いたJAVAのコード集
 
 ## [Lecture](https://github.com/YujiSue/Lecture)
 
-  Pythonプログラミングと、AIの講義用にGoogle Colaboratoryで作成したJupyter notebook集。
+  Pythonプログラミングと、AIの講義用にGoogle Colaboratoryで作成したJupyter notebook集
