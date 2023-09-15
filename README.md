@@ -2,7 +2,8 @@
 
 # My repositories
 ---
-## [slib](https://github.com/YujiSue/slib)
+## Libraries
+### [slib](https://github.com/YujiSue/slib)
 Libraries for supporting c++ coding.  
 
 * libsobj  
@@ -11,13 +12,11 @@ Libraries for supporting c++ coding.
 * libsapp  
   > A library to make command line applicaitions.  
 
-* libsnodeapp  
-  > A library to make native addons for apps run by node.js.  
-
 * libsbioinfo  
   > A library used for my bioinformatics research. 
 
-## [BioInfoTools](https://github.com/YujiSue/BioInfoTools)
+## Applications
+### [BioInfoTools](https://github.com/YujiSue/BioInfoTools)
 Bioinformatics apps used for my research.
 
 * [GenomeConverter](https://github.com/YujiSue/BioInfoTools/tree/master/GenomeConverter)
