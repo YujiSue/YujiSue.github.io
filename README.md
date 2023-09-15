@@ -3,7 +3,8 @@
 # My repositories
 ---
 <details>
-<summary>Libraries</summary>
+<summary><h2>Libraries</h2></summary>  
+
 [slib](https://github.com/YujiSue/slib)
 Libraries for supporting c++ coding.  
 
