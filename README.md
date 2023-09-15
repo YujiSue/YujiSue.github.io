@@ -23,18 +23,22 @@
   </table>
 </details>
 <details open>
-  <summary><h2>Applications</h2></summary> 
-  <tr>
-    <td>BioInfoTools</td>
-    <td><a href="https://github.com/YujiSue/BioInfoTools">Github</a></td>
-    <td>C/C++</td>
-    <td>Bioinformatics apps used in the <a href="https://pubmed.ncbi.nlm.nih.gov/33828169/"> article</a>.<br>
-    <ul>
-      <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/GenomeConverter">GenomeConverter</a>: A program to encode a FASTA format genomic sequence to a compressed binary file.</li>
-    </ul>
-    
-    </td> 
-  </tr>
+  <summary><h2>Applications</h2></summary>
+  <table>
+    <tr>
+      <th>Name</th><th>Link</th><th>Language</th><th>Description</th>
+    </tr>
+    <tr>
+      <td>BioInfoTools</td>
+      <td><a href="https://github.com/YujiSue/BioInfoTools">Github</a></td>
+      <td>C/C++</td>
+      <td>Bioinformatics apps used in the <a href="https://pubmed.ncbi.nlm.nih.gov/33828169/"> article</a>.<br>
+      <ul>
+        <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/GenomeConverter">GenomeConverter</a>: A program to encode a FASTA format genomic sequence to a compressed binary file.</li>
+      </ul>
+      </td> 
+    </tr>
+  </table>
 </details>
 <details open>
   <summary><h2>Plugins</h2></summary>  
