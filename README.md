@@ -12,7 +12,7 @@
       <td>slib</td>
       <td><a href="https://github.com/YujiSue/slib">Github</a></td>
       <td>C/C++</td>
-      <td>Libraries for supporting c++ coding. There are 3 sublibraries. CMake installation is available.<br/>
+      <td>Libraries for supporting c++ coding. There are 3 sublibraries.<br>CMake installation is available.<br>
       <ul>
         <li>libsobj <br> A basic library.</li>
         <li>libsapp <br> A library to make command line applicaition.</li>
@@ -35,6 +35,10 @@
       <td>Bioinformatics apps used in the <a href="https://pubmed.ncbi.nlm.nih.gov/33828169/"> article</a>.<br>
       <ul>
         <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/GenomeConverter">GenomeConverter</a>: A program to encode a FASTA format genomic sequence to a compressed binary file.</li>
+        <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/GenomeExtract">GenomeExtract</a>: A program to extract the sequence.</li>
+        <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/GFFParser">GFFParser</a>: A program to display the summary of gff3 file.</li>
+        <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/AnnotDBMaker">AnnotDBMaker</a>: A program to make a sqlite3 format database for gene annotaion.</li>
+        <li><a href="https://github.com/YujiSue/BioInfoTools/tree/master/BioAnnotation">BioAnnotation</a>: A program to make annotation of target region using the database.</li>
       </ul>
       </td> 
     </tr>
@@ -70,7 +74,6 @@
       This plugin is used in the <a href="https://pubmed.ncbi.nlm.nih.gov/33828169/"> article</a>.
       </td> 
     </tr>
-
   </table>
 </details>
 <details open>
