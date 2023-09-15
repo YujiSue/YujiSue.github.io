@@ -2,32 +2,41 @@
 
 # My repositories
 ---
-<details opened>
-<summary><h2>Libraries</h2></summary>  
+<details open>
+  <summary><h2>Libraries / Modules</h2></summary>  
+  <table>
+    <tr>
+      <th>Name</th><th>Link</th><th>Language</th><th>Description</th>
+    </tr>
+    <tr>
+      <td>slib</td>
+      <td><a href="https://github.com/YujiSue/slib">Github</a></td>
+      <td>Libraries for supporting c++ coding. There are 3 sublibraries. CMake installation is available.<br/>
+      <ul>
+        <li>libsobj <br> A basic library.</li>
+        <li>libsapp <br> A library to make command line applicaition.</li>
+        <li>libsbioinfo <br> A library used for my bioinformatics research. </li>
+      </ul>
+      </td> 
+    </tr>
+    
+  
+
+
+  </table>
 </details>
-<details opened>
-<summary><h2>Applications</h2></summary>  
+<details open>
+  <summary><h2>Applications</h2></summary>  
 </details>
-<details opened>
+<details open>
 <summary><h2>Plugins</h2></summary>  
 </details>
-<details opened>
+<details open>
 <summary><h2>Other scripts</h2></summary>  
 </details>
 
 
-- [slib](https://github.com/YujiSue/slib)  
-Libraries for supporting c++ coding.  
 
-
-* libsobj  
-  > A basic library to use a psuedo dynamic typing codes in C++.
-  
-* libsapp  
-  > A library to make command line applicaitions.  
-
-* libsbioinfo  
-  > A library used for my bioinformatics research. 
 
 
 
