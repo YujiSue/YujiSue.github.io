@@ -2,9 +2,9 @@
 
 # My repositories
 ---
-<detail opened>
+<details>
 <summary>Libraries</summary>
-### [slib](https://github.com/YujiSue/slib)
+[slib](https://github.com/YujiSue/slib)
 Libraries for supporting c++ coding.  
 
 * libsobj  
@@ -16,7 +16,7 @@ Libraries for supporting c++ coding.
 * libsbioinfo  
   > A library used for my bioinformatics research. 
 
-</detail>
+</details>
 
 ## Applications
 ### [BioInfoTools](https://github.com/YujiSue/BioInfoTools)
