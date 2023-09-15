@@ -2,11 +2,23 @@
 
 # My repositories
 ---
-<details>
+<details opened>
 <summary><h2>Libraries</h2></summary>  
+</details>
+<details opened>
+<summary><h2>Applications</h2></summary>  
+</details>
+<details opened>
+<summary><h2>Plugins</h2></summary>  
+</details>
+<details opened>
+<summary><h2>Other scripts</h2></summary>  
+</details>
 
-[slib](https://github.com/YujiSue/slib)
+
+- [slib](https://github.com/YujiSue/slib)  
 Libraries for supporting c++ coding.  
+
 
 * libsobj  
   > A basic library to use a psuedo dynamic typing codes in C++.
@@ -17,7 +29,7 @@ Libraries for supporting c++ coding.
 * libsbioinfo  
   > A library used for my bioinformatics research. 
 
-</details>
+
 
 ## Applications
 ### [BioInfoTools](https://github.com/YujiSue/BioInfoTools)
