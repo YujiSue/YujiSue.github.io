@@ -3,7 +3,7 @@
 # My repositories
 ---
 <details open>
-  <summary><h2>Libraries / Modules</h2></summary>  
+  <summary><h2>Libraries / Modules</h2></summary>
   <table>
     <tr>
       <th>Name</th><th>Link</th><th>Language</th><th>Description</th>
@@ -79,10 +79,15 @@
 <details open>
   <summary><h2>Other scripts</h2></summary>
   <tr>
-      <td></td>
-      <td><a href="">Github</a></td>
-      <td></td>
+      <td>R scripts</td>
+      <td><a href="https://github.com/YujiSue/RScript">Github</a></td>
+      <td>R</td>
       <td>
+      <ul>
+      <li><a ref="">Statistical test</a></li>
+      <li><a ref="">Make chart</a></li>
+      <li><a ref="">For NGS analysis</a></li>
+      </ul>
       </td> 
     </tr>
 
