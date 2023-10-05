@@ -78,7 +78,8 @@
 </details>
 <details open>
   <summary><h2>Other scripts</h2></summary>
-  <tr>
+  <table>
+    <tr>
       <td>R scripts</td>
       <td><a href="https://github.com/YujiSue/RScript">Github</a></td>
       <td>R</td>
@@ -90,7 +91,7 @@
       </ul>
       </td> 
     </tr>
-
+  </table>
 </details>
 ---
 ---
