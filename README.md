@@ -86,7 +86,7 @@
       <ul>
       <li><a ref="">Statistical test</a></li>
       <li><a ref="">Make chart</a></li>
-      <li><a ref="">For NGS analysis</a></li>
+      <li><a ref="https://github.com/YujiSue/RScript/tree/master/ngs">For NGS analysis</a></li>
       </ul>
       </td> 
     </tr>
