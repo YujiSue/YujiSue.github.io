@@ -85,9 +85,9 @@
       <td>R</td>
       <td>
       <ul>
-      <li><a ref="">Statistical test</a></li>
-      <li><a ref="">Make chart</a></li>
-      <li><a ref="https://github.com/YujiSue/RScript/tree/master/ngs">For NGS analysis</a></li>
+      <li><a href="">Statistical test</a>: </li>
+      <li><a href="">Make chart</a>:</li>
+      <li><a href="https://github.com/YujiSue/RScript/tree/master/ngs">For NGS analysis</a>: </li>
       </ul>
       </td> 
     </tr>
